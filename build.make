@@ -7,9 +7,9 @@ projects[drupal][version] = "7.34"
 ; Modules
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[sajatblog][download][type] = ""
-projects[sajatblog][download][url] = ""
-projects[sajatblog][type] = "module"
+projects[sajatblog][download][type] = "git"
+projects[sajatblog][download][url] = "git@github.com:vargarobi93/sajatblog.git"
+projects[sajatblog][type] = "profile"
 
 projects[features][version] = "2.10"
 
